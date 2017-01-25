@@ -1,0 +1,33 @@
+.hours{
+    position: absolute;
+    top: 110px;
+    left:185px;
+    transform-origin: bottom center;
+    transform: rotate(0deg);
+}
+
+.seconds{
+    position: absolute;
+    top: 70px;
+    left:188px;
+    transform-origin: bottom center;
+    transform: rotate(0deg);
+}
+
+.minutes{
+    position: absolute;
+    top: 70px;
+    left:187px;
+    transform-origin: bottom center;
+    transform: rotate(0deg);
+}
+.round img{
+    position: absolute;
+    top: 192px;
+    left: 175px;
+    width: 30px;
+    height: 30px;
+    z-index: 50;
+
+}
+
